@@ -55,12 +55,11 @@ wtorek)
 
 obliczanie cen:
 
-$koszt przejazdu = WyznaczaPrzewoznik$
-
-$totalNet = \sum (cenProduktowNet - znizkaNet) + cenaPrzewozuNet$
-
-$brutto = netto * 1.2 $
-
+<img src="https://latex.codecogs.com/svg.image?kosztPrzejazdu&space;=&space;WyznaczaPrzewoznik">
+<br>
+<img src="https://latex.codecogs.com/svg.image?totalNet&space;=&space;(\sum&space;cenProduktowNet&space;-&space;znizkaNet)&space;&plus;&space;cenaPrzewozuNet">
+<br>
+<img src="https://latex.codecogs.com/svg.image?brutto&space;=&space;netto&space;*&space;1.2">
 ---
 ### 2. Akceptacja zamówienia:
 Istatne zdarzenia:
