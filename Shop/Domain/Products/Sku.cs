@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Shop.Domain
+namespace Shop.Domain.Products
 {
     public class Sku : IEquatable<Sku>
     {

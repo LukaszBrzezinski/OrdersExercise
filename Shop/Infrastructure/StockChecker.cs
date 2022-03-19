@@ -1,4 +1,5 @@
 ﻿using Shop.Domain;
+using Shop.Domain.Products;
 
 namespace Shop.Infrastructure
 {

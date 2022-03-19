@@ -1,6 +1,7 @@
 ﻿using Shop.Domain;
 using System;
 using System.Collections.Generic;
+using Shop.Domain.Products;
 
 namespace Shop.Infrastructure
 {
