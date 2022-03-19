@@ -1,5 +1,4 @@
 ﻿using Shop.Application.Dtos;
-using Shop.Domain;
 using System;
 using System.Collections.Generic;
 
@@ -11,7 +10,7 @@ namespace Shop.Application
         public void AbandonOrder(Guid orderId);
         public void AddProducts(IEnumerable<Guid> products);
         public OrderDto GetOrder(Guid id);
-        public void DispatchOrder(Guid id, Carrier carrier);
+        public void DispatchOrder(Guid id, CarrierDto carrier);
         public void PayForOrder(Guid orderId, decimal amount, string transactionNumber);
     }
 }
