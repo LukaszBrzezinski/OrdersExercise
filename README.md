@@ -60,6 +60,7 @@ obliczanie cen:
 <img src="https://latex.codecogs.com/svg.image?totalNet&space;=&space;(\sum&space;cenProduktowNet&space;-&space;znizkaNet)&space;&plus;&space;cenaPrzewozuNet">
 <br>
 <img src="https://latex.codecogs.com/svg.image?brutto&space;=&space;netto&space;*&space;1.2">
+
 ---
 ### 2. Akceptacja zamówienia:
 Istatne zdarzenia:
