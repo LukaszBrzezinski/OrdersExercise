@@ -4,8 +4,6 @@ Zadanie polegające na zaimplementowaniu i napisaniu testów jednostkowych dla s
 Nie ma tutaj konsoli ani żadnego interfejsu użytkownika dlatego też zostają tylko testy. Główną (najwyższego rzędu) abstrakcją jest IOrderService. 
 Większość modeli ma tylko nazwę i jest umieszczona w poprawnym katalogu. Wszystkie pola, property, metody - całą logikę trzeba napisać samemu. 
 
----
-
 ## Wymagane funkcjonalności:
 - Składanie zamówienia
 - Akceptacja zamówienia
